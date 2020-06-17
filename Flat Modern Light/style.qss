@@ -46,7 +46,7 @@ QScrollBar::handle:vertical {
 	width: 6px;
 	height: 6px;
 	background: pink;
-	image: url(down_arrow.png);
+	image: url(scrolDownLight.png);
 }
 
 QScrollBar#altScroll:vertical {

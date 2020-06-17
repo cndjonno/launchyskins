@@ -46,11 +46,11 @@ QScrollBar::handle:vertical {
 	width: 6px;
 	height: 6px;
 	background: pink;
-	image: url(down_arrow.png);
+	image: url(scrollDownDark.png);
 }
 
 QScrollBar#altScroll:vertical {
-	image: url(scrollBack.png);
+	image: url(scrollBackgroundDark.png);
 	width: 16px; 
 	margin: 16px 0px 16px 0px;
 }
@@ -64,15 +64,15 @@ QScrollBar#altScroll::sub-line:vertical {
 	height: 16px;
 	subcontrol-position: top;
 	subcontrol-origin: margin;
-	image: url(scrollUp.png);
+	image: url(scrollUpDark.png);
 }
 
 QScrollBar#altScroll::add-page:vertical {
-	background: url(scrollBack.png);
+	background: url(scrollBackgroundDark.png);
 }
 
 QScrollBar#altScroll::sub-page:vertical {
-	background: url(scrollBack.png);
+	background: url(scrollBackroundDark.png);
 }
 
 QScrollBar#altScroll::add-line:vertical {
@@ -80,5 +80,5 @@ QScrollBar#altScroll::add-line:vertical {
 	height: 16px; 
 	subcontrol-position: bottom;
 	subcontrol-origin: margin;
-	image: url(scrollDown.png);
+	image: url(scrollDowndark.png);
 }
