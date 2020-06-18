@@ -1,0 +1,8 @@
+Skin Title: Sticky Note Yellow
+Author: cndjonno
+Website: https://github.com/cndjonno/launchyskins
+
+Version: 1.0
+Date: 2020-06-17
+
+Inspired the Note skin by Philipp Franck (34dF0x) at www.34dF0x.deviantart.com
